@@ -1,0 +1,3 @@
+C:\Models\Parks\CSharpModel\web\bin\anotificationsregistrationhandler.dll
+C:\Models\Parks\CSharpModel\build\anotificationsregistrationhandler\obj\Release\anotificationsregistrationhandler.csprojResolveAssemblyReference.cache
+C:\Models\Parks\CSharpModel\build\anotificationsregistrationhandler\obj\Release\anotificationsregistrationhandler.dll

@@ -1,0 +1,3 @@
+C:\Models\Parks\CSharpModel\web\bin\developermenu.dll
+C:\Models\Parks\CSharpModel\build\developermenu\obj\Release\developermenu.csprojResolveAssemblyReference.cache
+C:\Models\Parks\CSharpModel\build\developermenu\obj\Release\developermenu.dll
