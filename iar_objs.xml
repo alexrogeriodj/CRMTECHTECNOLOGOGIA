@@ -1,0 +1,43 @@
+
+<Object>
+<ReorgCls>c</ReorgCls>
+<Mod>1</Mod>
+<OldMod>2</OldMod>
+<Table>
+<TableId>10</TableId>
+<TableName>REPAIRKind</TableName>
+<Description>Kind</Description></Table>
+<Table>
+<TableId>10</TableId>
+<TableName>REPAIRKind</TableName>
+<Description>Kind</Description></Table>
+<ReorgAction>*</ReorgAction>
+<ObjNavig>Alex Rogério\MDL002\GEN15\REPAIRKindConversion.xml</ObjNavig></Object>
+<Object>
+<ReorgCls>c</ReorgCls>
+<Mod>1</Mod>
+<OldMod>2</OldMod>
+<Table>
+<TableId>9</TableId>
+<TableName>TECHNICIAN</TableName>
+<Description>TECHNICIAN</Description></Table>
+<Table>
+<TableId>9</TableId>
+<TableName>TECHNICIAN</TableName>
+<Description>TECHNICIAN</Description></Table>
+<ReorgAction>*</ReorgAction>
+<ObjNavig>Alex Rogério\MDL002\GEN15\TECHNICIANConversion.xml</ObjNavig></Object>
+<Object>
+<ReorgCls>c</ReorgCls>
+<Mod>1</Mod>
+<OldMod>2</OldMod>
+<Table>
+<TableId>8</TableId>
+<TableName>REPAIR</TableName>
+<Description>REPAIR</Description></Table>
+<Table>
+<TableId>8</TableId>
+<TableName>REPAIR</TableName>
+<Description>REPAIR</Description></Table>
+<ReorgAction>*</ReorgAction>
+<ObjNavig>Alex Rogério\MDL002\GEN15\REPAIRConversion.xml</ObjNavig></Object>
