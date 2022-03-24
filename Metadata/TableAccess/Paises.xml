@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="2021473d-63d5-4dd7-b62c-6e92a365cb59">
+  <Table name="AmusementPark" />
+  <Table name="Paises" />
+  <Table name="PaisesCity" />
+</Dependencies>
