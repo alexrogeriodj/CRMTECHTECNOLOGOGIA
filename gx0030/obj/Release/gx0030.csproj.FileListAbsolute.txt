@@ -1,0 +1,3 @@
+C:\Models\Parks\CSharpModel\web\bin\gx0030.dll
+C:\Models\Parks\CSharpModel\build\gx0030\obj\Release\gx0030.csprojResolveAssemblyReference.cache
+C:\Models\Parks\CSharpModel\build\gx0030\obj\Release\gx0030.dll
