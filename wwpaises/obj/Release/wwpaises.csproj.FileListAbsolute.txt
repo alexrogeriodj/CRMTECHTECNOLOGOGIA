@@ -1,0 +1,3 @@
+C:\Models\Parks\CSharpModel\web\bin\wwpaises.dll
+C:\Models\Parks\CSharpModel\build\wwpaises\obj\Release\wwpaises.csprojResolveAssemblyReference.cache
+C:\Models\Parks\CSharpModel\build\wwpaises\obj\Release\wwpaises.dll

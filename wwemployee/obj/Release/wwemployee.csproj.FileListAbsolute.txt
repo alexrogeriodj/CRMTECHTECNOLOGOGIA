@@ -1,0 +1,3 @@
+C:\Models\Parks\CSharpModel\web\bin\wwemployee.dll
+C:\Models\Parks\CSharpModel\build\wwemployee\obj\Release\wwemployee.csprojResolveAssemblyReference.cache
+C:\Models\Parks\CSharpModel\build\wwemployee\obj\Release\wwemployee.dll
